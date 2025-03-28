@@ -1,0 +1,20 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.board {
+    margin: 0px auto;
+}
+
+.squareE, .squareO {
+    height: 60px;
+    width: 60px;
+}
+
+.squareE {
+    background-color: red;
+}
+.squareO {
+    background-color: black;
+}
